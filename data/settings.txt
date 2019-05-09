@@ -1,0 +1,14 @@
+================================================
+Total frames: 10000
+Frames per sample: 100
+================================================
+Food spawn chance: 18.0%
+Starting creatures: 5
+================================================
+Energy range: 0 - 100, starting value: 50
+Trait level range: 20 - 500
+Replication cost: 30
+Predation against creatures up to 80.0% of predator's size
+================================================
+Speed 0.2px/f (0.01en/f) - 1.2px/f (0.4en/f)
+Size 0.2px/f (0.01en/f) - 1.2px/f (0.1en/f)
